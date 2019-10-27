@@ -1,6 +1,6 @@
-token=NTg0NTM1Mzk1MDkwMzAwOTU5.XPMVCA.4kjwD7ISsuMcFNkTed60b2LrNBo
-owner=567694723679125514  
-prefix=2
-game=Dgymnasium.
+token=NjM4MDU1NjgxNDI5MjA5MDg4.XbXLcQ.rjrxaE6AQnCbzuviiH65YAmWqnA
+owner=398518643203506176 
+prefix=1
+game=Victory
 stayinchannel=true
 songinstatus=true
